@@ -39,5 +39,9 @@ If there is any interest in this at all, I'll add more.
 
 Lastly, this bot would not have been possible without the API developed by Coinables.  Thank you sir.  You can find the original API project here: https://github.com/coinables/Bitfinex-API-PHP
 
+If you make a bazillion dollars with my bot, maybe a kickback?
+
+BTC: 3FmfWJUef49frwCbGQagKn1aQxNuadpYLJ
+LTC: LNYtFZEJJXQMviTYN4ECB4L3WaqTxNsdfK
 
 -TheBitmap
