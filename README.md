@@ -42,6 +42,7 @@ Lastly, this bot would not have been possible without the API developed by Coina
 If you make a bazillion dollars with my bot, maybe a kickback?
 
 BTC: 3FmfWJUef49frwCbGQagKn1aQxNuadpYLJ
+
 LTC: LNYtFZEJJXQMviTYN4ECB4L3WaqTxNsdfK
 
 -TheBitmap
