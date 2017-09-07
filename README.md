@@ -14,7 +14,7 @@ Anyways, I ran this bot, making profitable trades, then BitFinex decided to ceas
 so, my bot is now useless.  I may or may not port it to another exchange, however, I've decided to give it away for anyone interested.
 
 I am NOT AT ALL liable if you lose money using this bot.  I've clearly stated that I am NOT a programmer... and you're deciding to use my
-bot, so good luck.  I'll update this readme soon enough.
+bot, so good luck.  I'll update this readme soon enough.... maybe?
 -----------------------------------------------------------
 
 This bot was designed to make many small profits as the prices rises and falls.  Some people call this a ping-pong strategy.  The bot will purchase LTC as every level.  By default, it will use .005% of your assets for each trade, and will place trades according to the spread you want to cover... all configurable in the bot.
